@@ -3,6 +3,13 @@ A system uses YOLOv3 to detect the bag and recommends the similar bags.
 
 <img src="https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-object-detection/blob/master/figures/demo.gif">
 
+## System Overflow
+
+### Stage I : Object detection
+
+### Stage II : Web crawler
+
+
 The work structure :
 ```
 Real-time-bag-recommendation-based-on-object-detection
