@@ -1,5 +1,5 @@
 # Real-time-bag-recommendation-based-on-object-detection
-A system uses YOLOv3 to detect the bag and recommends the similar bags.
+A system uses YOLOv3 to detect the bag and recommends the similar bags in real-time. 
 
 <img src="https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-object-detection/blob/master/figures/demo.gif">
 
@@ -24,5 +24,4 @@ git clone https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-obje
 
 
 ## Acknowledgement
-
 1. [keras-yolo3](https://github.com/qqwweee/keras-yolo3)
