@@ -11,26 +11,6 @@ A system uses YOLOv3 to detect the bag and recommends the similar bags.
 ### Stage II : Web crawler
 <img src="https://github.com/gsdndeer/Real-time-bag-recommendation-based-on-object-detection/blob/master/figures/stage2.jpg">
 
-The work structure :
-```
-Real-time-bag-recommendation-based-on-object-detection
-      |
-       --- yolo3
-      |
-       --- model_data
-      |
-       --- figures
-      |
-       --- font
-      |
-       --- image
-      |
-       --- system.py
-      |
-       --- yolo_multiple_output.py
-      |
-       --- yolo_detector.py
-```
 ## Usage
 
 1. Clone the repository
